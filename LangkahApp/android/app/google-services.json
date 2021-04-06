@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882693493176",
+    "firebase_url": "https://langkah-c0191.firebaseio.com",
+    "project_id": "langkah-c0191",
+    "storage_bucket": "langkah-c0191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882693493176:android:42de5e459854e158237f4d",
+        "android_client_info": {
+          "package_name": "com.example.LangkahApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882693493176-8nhsctorh7i5vtcqbgd8garic7vk6h4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXbJE6SF7nSYiB0iksHH2QDJU8zetiwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882693493176-8nhsctorh7i5vtcqbgd8garic7vk6h4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
