@@ -1,6 +1,6 @@
 # LangkahApp
 
-A new Flutter project.
+our group application development project
 
 ## Getting Started
 
